@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Klim Zaporojets"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Ghent (Belgium) / Aarhus (Denmark)"
+  name             : "Klim Zaporojets"
+  avatar           : "klim_zaporojets_scaled.png"
+  bio              : "Computer Science Ph.D. student at Ghent University"
+  location         : "Ghent / Aarhus"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oFjUJvwAAAAJ&hl=en"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "klim-zaporojets-9102b0a"
   orcid            : "https://orcid.org/0000-0003-4988-978X"
   pinterest        :
   soundcloud       :
