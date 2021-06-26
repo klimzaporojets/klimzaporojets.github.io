@@ -16,9 +16,9 @@ My research spans a variety of topics related to the use of Machine Learning in 
 
 Publications
 ======
-S. Verlinden\*, <b>K. Zaporojets\*</b>, J. Deleu, T. Demeester and C. Develder, <b>[Injecting knowledge base information into end-to-end joint entity and relation extraction and coreference resolution](files/2021-ACL-injecting-knowledge.pdf)</b>, in <i>Findings of the ACL: ACL-IJCNLP 2021</i>, Bangkok, Thailand, 1-6 Aug. 2021. (\* equal contribution)
+S. Verlinden\*, <b>K. Zaporojets\*</b>, J. Deleu, T. Demeester and C. Develder, <b>[Injecting knowledge base information into end-to-end joint entity and relation extraction and coreference resolution](files/2021-ACL-injecting-knowledge.pdf)</b>, in <i>Findings of the ACL: ACL-IJCNLP 2021</i>, Bangkok, Thailand, 1-6 Aug. 2021. (\* equal contribution) [[poster](files/2021-ACL-injecting-knowledge-poster.pdf)|[code](https://github.com/klimzaporojets/e2e-kb-ie)]
 
-<b>K. Zaporojets</b>, J. Deleu, C. Develder and T. Demeester, <b>[DWIE: an entity-centric dataset for multi-task document-level information extraction](files/2021-IPM-DWIE.pdf)</b>, <i>Information Processing and Management</i>, Vol. 158, No. 4, Jul. 2021.
+<b>K. Zaporojets</b>, J. Deleu, C. Develder and T. Demeester, <b>[DWIE: an entity-centric dataset for multi-task document-level information extraction](files/2021-IPM-DWIE.pdf)</b>, <i>Information Processing and Management</i>, Vol. 158, No. 4, Jul. 2021. [[dataset](https://github.com/klimzaporojets/dwie)|[code coming soon!]]
 
 <b>K. Zaporojets</b>, G. Bekoulis, J. Deleu, T. Demeester and C. Develder, <b>[Solving Arithmetic Word Problems by Scoring Equations with Recursive Neural Networks](files/2021-ESWA-MWP.pdf)</b>, <i>Expert Systems with Applications</i>, Vol. 174, 15 Jul. 2021. [[code](https://github.com/klimzaporojets/arithmetic-word-problems)]
 
