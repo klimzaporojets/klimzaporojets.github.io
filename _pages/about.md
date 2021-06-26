@@ -22,7 +22,7 @@ S. Verlinden\*, <b>K. Zaporojets\*</b>, J. Deleu, T. Demeester and C. Develder, 
 
 <b>K. Zaporojets</b>, G. Bekoulis, J. Deleu, T. Demeester and C. Develder, <b>[Solving Arithmetic Word Problems by Scoring Equations with Recursive Neural Networks](files/2021-ESWA-MWP.pdf)</b>, <i>Expert Systems with Applications</i>, Vol. 174, 15 Jul. 2021. [[code](https://github.com/klimzaporojets/arithmetic-word-problems)]
 
-Y. Jiang, <b>K. Zaporojets</b>, J. Deleu, T. Demeester and C. Develder, <b>[Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes](files/2020-AACL-recipe.pdf)</b> in Proc. 1st Conf. Asia-Pacific Chapter of the Assoc. Comput. Linguist. and 10th Int. Joint Conf. Natural Lang. Processing (AACL-IJCNLP 2020), Online, 4-7 Dec. 2020, pp. 821-826.
+Y. Jiang, <b>K. Zaporojets</b>, J. Deleu, T. Demeester and C. Develder, <b>[Recipe Instruction Semantics Corpus (RISeC): Resolving Semantic Structure and Zero Anaphora in Recipes](files/2020-AACL-recipe.pdf)</b> in Proc. 1st Conf. Asia-Pacific Chapter of the Assoc. Comput. Linguist. and 10th Int. Joint Conf. Natural Lang. Processing (AACL-IJCNLP 2020), Online, 4-7 Dec. 2020, pp. 821-826. [[dataset](https://github.com/YiweiJiang2015/RISeC)]
 
 S.K. Bitew, G. Bekoulis, J. Deleu, L. Sterckx, <b>K. Zaporojets</b>, T. Demeester and C. Develder, <b>[Predicting suicide risk from online postings in Reddit: The UGent-IDLab submission to the CLPysch 2019 Shared Task A](files/2019-CLPsych-suicide-risk.pdf)</b>, in Proc. 6th Ann. Workshop on Comput. Ling. Clin. Psychol. (CLPsych 2019) at NAACL-HLT 2019, Minneapolis, MN, USA, 6 Jun. 2019, pp. 158-161.
 
