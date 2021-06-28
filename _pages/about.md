@@ -12,7 +12,7 @@ About me
 ======
 I am a Ph.D. student at the [Internet Technology and Data Science Lab (IDLab)](https://www.ugent.be/ea/idlab/en) at the [Ghent University](https://www.ugent.be/en). I am part of the [Text-to-Knowledge (T2K) Group](https://ugentt2k.github.io/). My supervisors are Prof. [Chris Develder](http://users.atlantis.ugent.be/cdvelder/index.html), Prof. [Thomas Demeester](https://tdmeeste.github.io/), and Prof. [Véronique Hoste](https://www.lt3.ugent.be/people/veronique-hoste/). 
 
-My research spans a variety of topics related to the use of Machine Learning in Natural Language Processing. Currently, my main research interest lies in the area of Information Extraction (IE). I am particularly interested in linking the information in text to Knowledge Bases (KBs) and leveraging the external knowledge sources to improve the performance of IE tasks.
+My research spans a variety of topics related to the use of Machine Learning in Natural Language Processing. Currently, my main research interest lies in the area of Information Extraction (IE). I am particularly interested in linking the information in text to Knowledge Bases and leveraging the external knowledge sources to improve the performance of IE tasks.
 <!-- combining different sources of information (e.g., Knowledge Graphs, news articles, etc.) to improve the performance of IE tasks. 
 My research spans a variety of topics related to the use of Machine Learning in Natural Language Processing. Currently, my main research interest lies in the area of Information Extraction (IE). I am particularly interested in combining different sources of information (e.g., Knowledge Graphs, news articles, etc.) to improve the performance of IE tasks.
 -->
