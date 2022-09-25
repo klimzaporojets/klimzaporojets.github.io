@@ -20,6 +20,9 @@ My research spans a variety of topics related to the use of Machine Learning in 
 Publications
 ======
 <!--<b>K. Zaporojets</b>, J. Deleu, T. Demeester and C. Develder, <b>[Towards Consistent Document-level Entity Linking: Joint Models for Entity Linking and Coreference Resolution](https://arxiv.org/pdf/2108.13530.pdf)</b>, in <i>arXiv preprint arXiv:2108.13530, Aug. 2021</i> [ [code and dataset](https://github.com/klimzaporojets/consistent-EL) coming soon! ]-->
+
+<b>K. Zaporojets</b>, L.A. Kaffee, J. Deleu, T. Demeester, C. Develder, I. Augenstein, <b>[TempEL: Linking Dynamically Evolving and Newly Emerging Entities](https://openreview.net/pdf?id=vrnqr3PG4yB)</b>, in <i>arXiv preprint arXiv:2108.13530, Aug. 2021</i> [ [code and dataset](https://github.com/klimzaporojets/consistent-EL) coming soon! ]
+
 <b>K. Zaporojets</b>, J. Deleu, T. Demeester and C. Develder, <b>[Towards Consistent Document-Level Entity Linking: Joint Models for Entity Linking and Coreference Resolution](files/2022-ACL-consistent-el.pdf)</b>, in <i>Proceedings of the ACL 2022 <b>(oral presentation)</b></i> (Dublin, Ireland) [ [poster](files/2022-ACL-consistent-el-poster.pdf) \| [code and AIDA+ dataset](https://github.com/klimzaporojets/consistent-EL) \| [video](https://youtu.be/1evf6XZsSGo) ]
 
 S. Verlinden\*, <b>K. Zaporojets\*</b>, J. Deleu, T. Demeester and C. Develder, <b>[Injecting knowledge base information into end-to-end joint entity and relation extraction and coreference resolution](files/2021-ACL-injecting-knowledge.pdf)</b>, in <i>Findings of the ACL: ACL-IJCNLP 2021</i> (Online Event) 1-6 Aug. 2021. (\* equal contribution) [ [poster](files/2021-ACL-injecting-knowledge-poster.pdf) \| [code](https://github.com/klimzaporojets/e2e-kb-ie)  \| [video](https://www.youtube.com/watch?v=BuNZUVWBQFE) ]
