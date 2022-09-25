@@ -21,7 +21,7 @@ Publications
 ======
 <!--<b>K. Zaporojets</b>, J. Deleu, T. Demeester and C. Develder, <b>[Towards Consistent Document-level Entity Linking: Joint Models for Entity Linking and Coreference Resolution](https://arxiv.org/pdf/2108.13530.pdf)</b>, in <i>arXiv preprint arXiv:2108.13530, Aug. 2021</i> [ [code and dataset](https://github.com/klimzaporojets/consistent-EL) coming soon! ]-->
 
-<b>K. Zaporojets</b>, L.A. Kaffee, J. Deleu, T. Demeester, C. Develder, I. Augenstein, <b>[TempEL: Linking Dynamically Evolving and Newly Emerging Entities](https://openreview.net/pdf?id=vrnqr3PG4yB)</b>, in <i>arXiv preprint arXiv:2108.13530, Aug. 2021</i> [ [code and dataset](https://github.com/klimzaporojets/consistent-EL) coming soon! ]
+<b>K. Zaporojets</b>, L.A. Kaffee, J. Deleu, T. Demeester, C. Develder, I. Augenstein, <b>[TempEL: Linking Dynamically Evolving and Newly Emerging Entities](https://openreview.net/pdf?id=vrnqr3PG4yB)</b>, in <i>Proceedings of NeurIPS Datasets and Benchmarks Track 2022</i> [ code and dataset coming soon! ]
 
 <b>K. Zaporojets</b>, J. Deleu, T. Demeester and C. Develder, <b>[Towards Consistent Document-Level Entity Linking: Joint Models for Entity Linking and Coreference Resolution](files/2022-ACL-consistent-el.pdf)</b>, in <i>Proceedings of the ACL 2022 <b>(oral presentation)</b></i> (Dublin, Ireland) [ [poster](files/2022-ACL-consistent-el-poster.pdf) \| [code and AIDA+ dataset](https://github.com/klimzaporojets/consistent-EL) \| [video](https://youtu.be/1evf6XZsSGo) ]
 
