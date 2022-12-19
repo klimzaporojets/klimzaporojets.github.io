@@ -21,7 +21,7 @@ Publications
 ======
 <!--<b>K. Zaporojets</b>, J. Deleu, T. Demeester and C. Develder, <b>[Towards Consistent Document-level Entity Linking: Joint Models for Entity Linking and Coreference Resolution](https://arxiv.org/pdf/2108.13530.pdf)</b>, in <i>arXiv preprint arXiv:2108.13530, Aug. 2021</i> [ [code and dataset](https://github.com/klimzaporojets/consistent-EL) coming soon! ]-->
 
-<b>K. Zaporojets</b>, L.A. Kaffee, J. Deleu, T. Demeester, C. Develder, I. Augenstein, <b>[TempEL: Linking Dynamically Evolving and Newly Emerging Entities](https://openreview.net/pdf?id=vrnqr3PG4yB)</b>, in <i>Proceedings of the NeurIPS Datasets and Benchmarks Track 2022</i> [ code and dataset coming soon! ]
+<b>K. Zaporojets</b>, L.A. Kaffee, J. Deleu, T. Demeester, C. Develder, I. Augenstein, <b>[TempEL: Linking Dynamically Evolving and Newly Emerging Entities](https://openreview.net/pdf?id=vrnqr3PG4yB)</b>, in <i>Proceedings of the NeurIPS Datasets and Benchmarks Track 2022</i> [ [TempEL dataset and code](https://github.com/klimzaporojets/TempEL) ]
 
 Y. Jiang, <b>K. Zaporojets</b>, J. Deleu, T. Demeester, C. Develder, <b>[CookDial: a dataset for task-oriented dialogs grounded in procedural documents](https://link.springer.com/article/10.1007/s10489-022-03692-0)</b>, <i>Applied Intelligence</i>, June 2022. [ [CookDial dataset and code](https://github.com/YiweiJiang2015/CookDial) ]
 
