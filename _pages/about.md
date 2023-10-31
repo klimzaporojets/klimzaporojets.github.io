@@ -31,7 +31,7 @@ Publications
 ======
 <!--<b>K. Zaporojets</b>, J. Deleu, T. Demeester and C. Develder, <b>[Towards Consistent Document-level Entity Linking: Joint Models for Entity Linking and Coreference Resolution](https://arxiv.org/pdf/2108.13530.pdf)</b>, in <i>arXiv preprint arXiv:2108.13530, Aug. 2021</i> [ [code and dataset](https://github.com/klimzaporojets/consistent-EL) coming soon! ]-->
 
-K. D'Oosterlinck, F. Remy, J. Deleu, T. Demeester, C. Develder, <b>K. Zaporojets</b>, A. Ghodsi, S. Ellershaw, J. Collins and C. Potts, <b>[BioDEX: Large-Scale Biomedical Adverse Drug Event Extraction for Real-World Pharmacovigilance](https://arxiv.org/pdf/2305.13395.pdf)</b>, <i>arXiv</i>, 2023. [ [BioDEX dataset and code](https://github.com/KarelDO/BioDEX) ]
+K. D'Oosterlinck, F. Remy, J. Deleu, T. Demeester, C. Develder, <b>K. Zaporojets</b>, A. Ghodsi, S. Ellershaw, J. Collins and C. Potts, <b>[BioDEX: Large-Scale Biomedical Adverse Drug Event Extraction for Real-World Pharmacovigilance](https://arxiv.org/pdf/2305.13395.pdf)</b>, in <i> In Findings of the 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 </i> (Singapore). [ [BioDEX dataset and code](https://github.com/KarelDO/BioDEX) ]
 
 Y. Jiang, <b>K. Zaporojets</b>, J. Deleu, T. Demeester, C. Develder, <b>[CookDial: a dataset for task-oriented dialogs grounded in procedural documents](https://link.springer.com/article/10.1007/s10489-022-03692-0)</b>, <i>Applied Intelligence</i>, 2023. [ [CookDial dataset and code](https://github.com/YiweiJiang2015/CookDial) ]
 
