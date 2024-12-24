@@ -29,7 +29,7 @@ My research spans a variety of topics related to the use of Machine Learning in 
 
 Publications
 ======
-V. Kougia, A. Sedova, A.J. Stephan, <b>K. Zaporojets</b, B. Roth, <b>[Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://aclanthology.org/2024.bionlp-1.6/)</b>, in <i> Proceedings of the 23rd Workshop on Biomedical Natural Language Processing: BioNLP-WS 2024 co-located with EMNLP 2024. </i> (Miami, Florida). [ [Code](https://github.com/vasilikikou/consistent_bioTempRE) ]
+V. Kougia, A. Sedova, A.J. Stephan, <b>K. Zaporojets</b>, B. Roth, <b>[Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://aclanthology.org/2024.bionlp-1.6/)</b>, in <i> Proceedings of the 23rd Workshop on Biomedical Natural Language Processing: BioNLP-WS 2024 co-located with EMNLP 2024. </i> (Miami, Florida). [ [Code](https://github.com/vasilikikou/consistent_bioTempRE) ]
 
 K. D'Oosterlinck, F. Remy, J. Deleu, T. Demeester, C. Develder, <b>K. Zaporojets</b>, A. Ghodsi, S. Ellershaw, J. Collins and C. Potts, <b>[BioDEX: Large-Scale Biomedical Adverse Drug Event Extraction for Real-World Pharmacovigilance](https://arxiv.org/pdf/2305.13395.pdf)</b>, in <i> Findings of the 2023 Conference on Empirical Methods in Natural Language Processing: EMNLP 2023 </i> (Singapore). [ [BioDEX dataset and code](https://github.com/KarelDO/BioDEX) ]
 
