@@ -29,19 +29,12 @@ My research spans a variety of topics related to the use of Machine Learning in 
 
 Publications
 ======
-<!--
-Personality Style Recognition via Machine Learning: Identifying Anaclitic and Introjective Personality Styles from Patients’ Speech
-Semere Kiros Bitew
-Vincent Schelstraete
-Klim Zaporojets
-Kimberly Van Nieuwenhove
-Reitske Meganck
-Chris Develder
--->
 
 P. Zhang, C. Cao, <b>K. Zaporojets</b>, P. Groth, <b>[CYCLE: Cross-Year Contrastive Learning in Entity-Linking](https://doi.org/10.1145/3627673.3679702)</b>, in <i> Proceedings of the 33rd ACM International Conference on Information and Knowledge Management: CIKM 2024 </i> (Boise, United States). [ [Code](https://github.com/pengyu-zhang/CYCLE-Cross-Year-Contrastive-Learning-in-Entity-Linking) ]
 
 V. Kougia, A. Sedova, A.J. Stephan, <b>K. Zaporojets</b>, B. Roth, <b>[Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://aclanthology.org/2024.bionlp-1.6/)</b>, in <i> Proceedings of the 23rd Workshop on Biomedical Natural Language Processing: BioNLP-WS 2024 co-located with EMNLP 2024 </i> (Miami, Florida). [ [Code](https://github.com/vasilikikou/consistent_bioTempRE) ]
+
+S. Javadi, A. Moradan, M. Sorkhpar, <b>K. Zaporojets</b>, D. Mottin, I. Assent, <b>[Wiki Entity Summarization Benchmark](https://arxiv.org/pdf/2406.08435)</b>, [ [Dataset and code](https://github.com/msorkhpar/wiki-entity-summarization) ]
 
 S. Kiros Bitew, V. Schelstraete, <b>K. Zaporojets</b>, K. Van Nieuwenhove, R. Meganck, C. Develder, <b>[Personality Style Recognition via Machine Learning: Identifying Anaclitic and Introjective Personality Styles from Patients’ Speech](https://www.clinjournal.org/clinj/article/view/169)</b>, <i>Computational Linguistics in the Netherlands Journal</i>, Vol. 13, 01 March. 2024.  
 
