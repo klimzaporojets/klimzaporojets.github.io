@@ -34,9 +34,9 @@ P. Zhang, C. Cao, <b>K. Zaporojets</b>, P. Groth, <b>[CYCLE: Cross-Year Contrast
 
 V. Kougia, A. Sedova, A.J. Stephan, <b>K. Zaporojets</b>, B. Roth, <b>[Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://aclanthology.org/2024.bionlp-1.6/)</b>, in <i> Proceedings of the 23rd Workshop on Biomedical Natural Language Processing: BioNLP-WS 2024 co-located with EMNLP 2024 </i> (Miami, Florida). [ [Code](https://github.com/vasilikikou/consistent_bioTempRE) ]
 
-Y. Xia, <b>K. Zaporojets</b>, B. Roth, <b>[What to do if language models disagree? Black-box model ensembling for textual and visual question answering](https://arxiv.org/pdf/2407.12841)</b>, [ [Dataset and code](https://github.com/Yuuxii/Black-box-QA-Ensemling) ]
+Y. Xia, <b>K. Zaporojets</b>, B. Roth, <b>[What to do if language models disagree? Black-box model ensembling for textual and visual question answering](https://arxiv.org/pdf/2407.12841)</b> (preprint), [ [Dataset and code](https://github.com/Yuuxii/Black-box-QA-Ensemling) ]
 
-S. Javadi, A. Moradan, M. Sorkhpar, <b>K. Zaporojets</b>, D. Mottin, I. Assent, <b>[Wiki Entity Summarization Benchmark](https://arxiv.org/pdf/2406.08435)</b>, [ [Dataset and code](https://github.com/msorkhpar/wiki-entity-summarization) ]
+S. Javadi, A. Moradan, M. Sorkhpar, <b>K. Zaporojets</b>, D. Mottin, I. Assent, <b>[Wiki Entity Summarization Benchmark](https://arxiv.org/pdf/2406.08435)</b> (preprint), [ [Dataset and code](https://github.com/msorkhpar/wiki-entity-summarization) ]
 
 S. Kiros Bitew, V. Schelstraete, <b>K. Zaporojets</b>, K. Van Nieuwenhove, R. Meganck, C. Develder, <b>[Personality Style Recognition via Machine Learning: Identifying Anaclitic and Introjective Personality Styles from Patients’ Speech](https://www.clinjournal.org/clinj/article/view/169)</b>, <i>Computational Linguistics in the Netherlands Journal</i>, Vol. 13, 01 March. 2024.  
 
