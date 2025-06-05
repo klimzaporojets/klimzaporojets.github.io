@@ -30,7 +30,7 @@ My research spans a variety of topics related to the use of Machine Learning in 
 Publications
 ======
 
-M. Li, P. Zhang, W. Xing, Y. Zheng, <b>K. Zaporojets</b>, J. Chen, R. Zhang, Y, Zhang, S. Gong, J. Hu, X. Ma, Z. Liu, P. Groth, M. Worring, <b>[Using Large Language Models to Tackle Fundamental Challenges in Graph Learning: A Comprehensive Survey](https://arxiv.org/pdf/2505.18475?)</b> (2025 preprint), [ [Curated literature list](https://github.com/limengran98/Awesome-Literature-Graph-Learning-Challenges) ]
+M. Li, P. Zhang, W. Xing, Y. Zheng, <b>K. Zaporojets</b>, J. Chen, R. Zhang, Y, Zhang, S. Gong, J. Hu, X. Ma, Z. Liu, P. Groth, M. Worring, <b>[Using Large Language Models to Tackle Fundamental Challenges in Graph Learning: A Comprehensive Survey](https://arxiv.org/pdf/2505.18475?)</b> (2025 preprint). [ [Curated literature list](https://github.com/limengran98/Awesome-Literature-Graph-Learning-Challenges) ]
 
 Y. Xia, PHL de Araujo, <b>K. Zaporojets</b>, B. Roth, <b>[Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles](https://arxiv.org/pdf/2501.03991)</b> in <i> Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics: ACL 2025 </i> (Vienna, Austria). [ Code to be released shortly ]
 
