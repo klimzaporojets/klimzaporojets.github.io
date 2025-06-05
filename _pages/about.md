@@ -15,7 +15,7 @@ About me
 at [Aarhus University](https://international.au.dk/). 
 I am part of the [Data-Intensive Systems Group](https://cs.au.dk/research/data-intensive-systems).
 I earned my PhD from Ghent University --> 
-I am a postdoctoral researcher at the Department of Computer Science 
+I am a Marie Skłodowska-Curie Postdoctoral Fellow at the Department of Computer Science 
 at Aarhus University. I am part of the [Data-Intensive Systems Group](https://cs.au.dk/research/data-intensive-systems).
 <!--I earned my PhD from Ghent University working on--> 
 <!--I am working with prof. [Chris Develder](http://users.atlantis.ugent.be/cdvelder/index.html) and 
