@@ -30,15 +30,17 @@ My research spans a variety of topics related to the use of Machine Learning in 
 Publications
 ======
 
-M. Li, P. Zhang, W. Xing, Y. Zheng, <b>K. Zaporojets</b>, J. Chen, R. Zhang, Y, Zhang, S. Gong, J. Hu, X. Ma, Z. Liu, P. Groth, M. Worring, <b>[Using Large Language Models to Tackle Fundamental Challenges in Graph Learning: A Comprehensive Survey](https://arxiv.org/pdf/2505.18475?)</b> (2025 preprint). [ [Curated literature list](https://github.com/limengran98/Awesome-Literature-Graph-Learning-Challenges) ]
+P. Zhang, <b>K. Zaporojets</b>, J. Liu, J. H. Huang, P. Groth, <b>Are a Thousand Words Better Than a Single Picture? Beyond Images - A Framework for Multi-Modal Knowledge Graph Dataset Enrichment</b> accepted to <i> 23rd European Semantic Web Conference (ESWC 2026) </i> (Dubrovnik, Croatia). [ [Code and dataset]( https://github.com/pengyu-zhang/Beyond-Images) ]
 
-Y. Xia, PHL de Araujo, <b>K. Zaporojets</b>, B. Roth, <b>[Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles](https://arxiv.org/pdf/2501.03991)</b> in <i> Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics: ACL 2025 </i> (Vienna, Austria). [ Code to be released shortly ]
+M. Li, P. Zhang, W. Xing, Y. Zheng, <b>K. Zaporojets</b>, J. Chen, R. Zhang, Y, Zhang, S. Gong, J. Hu, X. Ma, Z. Liu, P. Groth, M. Worring, <b>[Using Large Language Models to Tackle Fundamental Challenges in Graph Learning: A Comprehensive Survey](https://arxiv.org/pdf/2505.18475?)</b> <i>Expert Systems with Applications</i>, Vol. 298, 1 March 2026. [ [Curated literature list](https://github.com/limengran98/Awesome-Literature-Graph-Learning-Challenges) ]
+
+Y. Xia, PHL de Araujo, <b>K. Zaporojets</b>, B. Roth, <b>[Influences on LLM Calibration: A Study of Response Agreement, Loss Functions, and Prompt Styles](https://arxiv.org/pdf/2501.03991)</b> in <i> Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics: ACL 2025 <b>(Oral presentation and SAC Highlights Award)</b> </i> (Vienna, Austria). [ [Code](https://github.com/Yuuxii/Influences-on-LLM-Calibration) ]
+
+Y. Xia, <b>K. Zaporojets</b>, B. Roth, <b>[What to do if language models disagree? Black-box model ensembling for textual and visual question answering](https://aclanthology.org/2025.konvens-1.2/)</b>, in <i>Proceedings of the 21st Conference on Natural Language Processing: KONVENS 2025 <b>(Oral presentation)</b></i>, [ [Dataset and code](https://github.com/Yuuxii/Black-box-QA-Ensemling) ]
 
 P. Zhang, C. Cao, <b>K. Zaporojets</b>, P. Groth, <b>[CYCLE: Cross-Year Contrastive Learning in Entity-Linking](https://doi.org/10.1145/3627673.3679702)</b>, in <i> Proceedings of the 33rd ACM International Conference on Information and Knowledge Management: CIKM 2024 </i> (Boise, United States). [ [Code](https://github.com/pengyu-zhang/CYCLE-Cross-Year-Contrastive-Learning-in-Entity-Linking) ]
 
 V. Kougia, A. Sedova, A.J. Stephan, <b>K. Zaporojets</b>, B. Roth, <b>[Analysing zero-shot temporal relation extraction on clinical notes using temporal consistency](https://aclanthology.org/2024.bionlp-1.6/)</b>, in <i> Proceedings of the 23rd Workshop on Biomedical Natural Language Processing: BioNLP-WS 2024 co-located with EMNLP 2024 </i> (Miami, Florida). [ [Code](https://github.com/vasilikikou/consistent_bioTempRE) ]
-
-Y. Xia, <b>K. Zaporojets</b>, B. Roth, <b>[What to do if language models disagree? Black-box model ensembling for textual and visual question answering](https://arxiv.org/pdf/2407.12841)</b> (2024 preprint), [ [Dataset and code](https://github.com/Yuuxii/Black-box-QA-Ensemling) ]
 
 S. Javadi, A. Moradan, M. Sorkhpar, <b>K. Zaporojets</b>, D. Mottin, I. Assent, <b>[Wiki Entity Summarization Benchmark](https://arxiv.org/pdf/2406.08435)</b> (2024 preprint), [ [Dataset and code](https://github.com/msorkhpar/wiki-entity-summarization) ]
 
