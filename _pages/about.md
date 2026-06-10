@@ -31,7 +31,7 @@ Publications
 
 A. Bainson, K. Mortensen, <b>K. Zaporojets</b>, D. Mottin, P. Karras, 2026. <b>Sankofa: Online Query-adaptive Dynamic Graph Summaries.</b> To appear in proceedings of the VLDB Volume 19 (for VLDB 2026).
 
-P. Zhang, <b>K. Zaporojets</b>, J. Liu, J. H. Huang, P. Groth, <b>Are a Thousand Words Better Than a Single Picture? <b>[Beyond Images - A Framework for Multi-Modal Knowledge Graph Dataset Enrichment](https://arxiv.org/pdf/2603.16974)</b>, in <i> Proceedings to 23rd European Semantic Web Conference (ESWC 2026) </i> (Dubrovnik, Croatia). [ [Code and dataset]( https://github.com/pengyu-zhang/Beyond-Images) ]
+P. Zhang, <b>K. Zaporojets</b>, J. Liu, J. H. Huang, P. Groth, <b>[Are a Thousand Words Better Than a Single Picture? Beyond Images - A Framework for Multi-Modal Knowledge Graph Dataset Enrichment](https://arxiv.org/pdf/2603.16974)</b>, in <i> Proceedings to 23rd European Semantic Web Conference (ESWC 2026) </i> (Dubrovnik, Croatia). [ [Code and dataset]( https://github.com/pengyu-zhang/Beyond-Images) ]
 
 M. Li, P. Zhang, W. Xing, Y. Zheng, <b>K. Zaporojets</b>, J. Chen, R. Zhang, Y, Zhang, S. Gong, J. Hu, X. Ma, Z. Liu, P. Groth, M. Worring, <b>[Using Large Language Models to Tackle Fundamental Challenges in Graph Learning: A Comprehensive Survey](https://arxiv.org/pdf/2505.18475?)</b> <i>Expert Systems with Applications</i>, Vol. 298, 1 March 2026. [ [Curated literature list](https://github.com/limengran98/Awesome-Literature-Graph-Learning-Challenges) ]
 
