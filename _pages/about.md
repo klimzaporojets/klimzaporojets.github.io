@@ -28,7 +28,7 @@ My research spans a variety of topics related to the use of Machine Learning in 
 
 Publications
 ======
-<b>K. Zaporojets</b>, D. Daza, E. Barba, I. Assent, R. Navigli, P. Groth, 2026. <b>EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge.</b> <em>Submitted to the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).</em> [ [Code and dataset](https://github.com/klimzaporojets/emerge) ]
+<b>K. Zaporojets</b>, D. Daza, E. Barba, I. Assent, R. Navigli, P. Groth, 2026. <b>[EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge](https://arxiv.org/pdf/2507.03617)</b> <em>Submitted to the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).</em> [ [Code and dataset](https://github.com/klimzaporojets/emerge) ]
 
 F. Polat, D. Daza, P. Zhang, <b>K. Zaporojets</b>, P. Groth, 2026. <b> Select, Don't Train: The Benefits of Modular Entity Disambiguation with LLM-Based Selection. </b> To appear in proceeedings of the 25th International Semantic Web Conference (ISWC 2026). 
 
