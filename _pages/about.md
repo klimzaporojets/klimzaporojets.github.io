@@ -28,10 +28,13 @@ My research spans a variety of topics related to the use of Machine Learning in 
 
 Publications
 ======
+<b>K. Zaporojets</b>, D. Daza, E. Barba, I. Assent, R. Navigli, P. Groth, 2026. <b>EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge.</b> <em>Submitted to the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).</em> [ [Code and dataset](https://github.com/klimzaporojets/emerge) ]
 
-A. Bainson, K. Mortensen, <b>K. Zaporojets</b>, D. Mottin, P. Karras, 2026. <b>Sankofa: Online Query-adaptive Dynamic Graph Summaries.</b> To appear in proceedings of the VLDB Volume 19 (for VLDB 2026).
+F. Polat, D. Daza, P. Zhang, <b>K. Zaporojets</b>, P. Groth, 2026. <b> Select, Don't Train: The Benefits of Modular Entity Disambiguation with LLM-Based Selection. </b> To appear in proceeedings of the 25th International Semantic Web Conference (ISWC 2026). 
 
-P. Zhang, <b>K. Zaporojets</b>, J. Liu, J. H. Huang, P. Groth, <b>[Are a Thousand Words Better Than a Single Picture? Beyond Images - A Framework for Multi-Modal Knowledge Graph Dataset Enrichment](https://arxiv.org/pdf/2603.16974)</b>, in <i> Proceedings to 23rd European Semantic Web Conference (ESWC 2026) </i> (Dubrovnik, Croatia). [ [Code and dataset]( https://github.com/pengyu-zhang/Beyond-Images) ]
+A. Bainson, K. Mortensen, <b>K. Zaporojets</b>, D. Mottin, P. Karras, 2026. <b>Sankofa: Online Query-adaptive Dynamic Graph Summaries.</b> To appear in proceedings of the VLDB Volume 19 (VLDB 2026). [ [Code and dataset](https://github.com/AU-DIS/SANKOFA.git) ]
+
+P. Zhang, <b>K. Zaporojets</b>, J. Liu, J. H. Huang, P. Groth, <b>[Are a Thousand Words Better Than a Single Picture? Beyond Images - A Framework for Multi-Modal Knowledge Graph Dataset Enrichment](https://arxiv.org/pdf/2603.16974)</b>, in <i> Proceedings to 23rd European Semantic Web Conference (ESWC 2026) </i> (Dubrovnik, Croatia). [ [Code and dataset](https://github.com/pengyu-zhang/Beyond-Images) ]
 
 M. Li, P. Zhang, W. Xing, Y. Zheng, <b>K. Zaporojets</b>, J. Chen, R. Zhang, Y, Zhang, S. Gong, J. Hu, X. Ma, Z. Liu, P. Groth, M. Worring, <b>[Using Large Language Models to Tackle Fundamental Challenges in Graph Learning: A Comprehensive Survey](https://arxiv.org/pdf/2505.18475?)</b> <i>Expert Systems with Applications</i>, Vol. 298, 1 March 2026. [ [Curated literature list](https://github.com/limengran98/Awesome-Literature-Graph-Learning-Challenges) ]
 
