@@ -87,10 +87,12 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=oFjUJvwAAAAJ&hl=en"
-  # Deliberately left blank: author-profile.html renders this as a raw
-  # mailto: in the page source, which spam harvesters scrape. The address is
-  # published only via the obfuscated block in _pages/about.md instead.
+  # Leave `email` blank — author-profile.html renders it as a raw mailto: in the
+  # page source, which spam harvesters scrape. Use `email_b64` instead: the
+  # base64-encoded address, decoded by JS into a real link for human visitors.
+  # To change it:  printf 'new@address.com' | base64
   email            :
+  email_b64        : "a2xpbXphcG9yb2pldHNAZ21haWwuY29t"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

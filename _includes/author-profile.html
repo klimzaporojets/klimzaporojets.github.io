@@ -34,6 +34,24 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
+      {% comment %}
+        Spam-safe email: author.email_b64 holds the base64-encoded address, so it
+        never appears in the page source. JS decodes it into a normal mailto link.
+        Use this instead of author.email, which renders a scrapable raw mailto.
+      {% endcomment %}
+      {% if author.email_b64 %}
+        <li id="author-email-item"></li>
+        <script>
+          (function () {
+            var addr = atob('{{ author.email_b64 }}');
+            var item = document.getElementById('author-email-item');
+            var link = document.createElement('a');
+            link.href = 'mailto:' + addr;
+            link.innerHTML = '<i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}';
+            item.appendChild(link);
+          })();
+        </script>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
