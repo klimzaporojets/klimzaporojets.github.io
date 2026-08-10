@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-excerpt: "About me"
+excerpt: "Machine learning researcher in NLP, information extraction and knowledge graphs."
 author_profile: true
 redirect_from: 
   - /about/
@@ -72,4 +72,4 @@ S.K. Bitew, G. Bekoulis, J. Deleu, L. Sterckx, <b>K. Zaporojets</b>, T. Demeeste
 
 Contact
 ======
-<klim.zaporojets@ugent.be>
+<klimzaporojets@gmail.com>

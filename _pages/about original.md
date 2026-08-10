@@ -1,4 +1,5 @@
 ---
+published: false   # TODO: flip to true when this page is ready
 permalink: /
 title: "About me"
 excerpt: "About me"

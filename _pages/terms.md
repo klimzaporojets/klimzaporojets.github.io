@@ -1,4 +1,5 @@
 ---
+published: false   # TODO: flip to true when this page is ready
 permalink: /terms/
 title: "Terms and Privacy Policy"
 modified: 2016-06-06

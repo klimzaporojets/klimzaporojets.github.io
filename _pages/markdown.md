@@ -1,4 +1,5 @@
 ---
+published: false   # TODO: flip to true when this page is ready
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
