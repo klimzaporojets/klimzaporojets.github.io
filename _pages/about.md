@@ -72,4 +72,18 @@ S.K. Bitew, G. Bekoulis, J. Deleu, L. Sterckx, <b>K. Zaporojets</b>, T. Demeeste
 
 Contact
 ======
-<klimzaporojets@gmail.com>
+
+<!-- The address is base64-encoded so no form of it appears in the page source
+     for spam harvesters to scrape. JS rebuilds it as a normal clickable mailto
+     link for human visitors. The <noscript> fallback points at LinkedIn rather
+     than spelling the address out, so the source stays completely clean. -->
+<div id="contact-email"><noscript>Reach me via <a href="https://www.linkedin.com/in/klim-zaporojets-9102b0a">LinkedIn</a>.</noscript></div>
+<script>
+  (function () {
+    var addr = atob('a2xpbXphcG9yb2pldHNAZ21haWwuY29t');
+    var link = document.createElement('a');
+    link.href = 'mailto:' + addr;
+    link.textContent = addr;
+    document.getElementById('contact-email').appendChild(link);
+  })();
+</script>
