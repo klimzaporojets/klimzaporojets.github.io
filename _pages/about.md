@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I build machine learning systems that turn text into structured knowledge —
+I build machine learning systems that turn text into structured knowledge:
 information extraction, entity linking and knowledge graphs, across general and
 biomedical domains. My work has produced open datasets and benchmarks that other
 groups build on, including [DWIE](https://github.com/klimzaporojets/dwie),
@@ -25,7 +25,8 @@ Skłodowska-Curie Postdoctoral Fellowship at [Aarhus
 University](https://cs.au.dk/), in the [Algorithms, Data and Artificial
 Intelligence](https://cs.au.dk/research/algorithms-data-and-artificial-intelligence)
 group, working alongside the [INDE Lab](https://indelab.org/) at the University
-of Amsterdam.
+of Amsterdam on topics related to [Knowledge
+Engineering](https://en.wikipedia.org/wiki/Knowledge_engineering).
 
 **I am open to research and applied-ML roles in industry and academia.**
 
@@ -38,11 +39,11 @@ Selected work
 
 Technical skills
 ======
-**Programming** — Python (10+ yrs), Java (7+ yrs), SQL, Scala, Groovy, JavaScript<br>
-**Machine learning** — PyTorch, Pandas, scikit-learn, NLTK, spaCy, PyTorch Geometric, NetworkX, TensorFlow<br>
-**Data and retrieval** — Spark, Lucene, UIMA, Tableau, R<br>
-**Databases** — Oracle, MySQL, Neo4j<br>
-**Infrastructure** — Linux, Git, Jenkins, Docker, Nginx, Flask
+**Programming:** Python (10+ yrs), Java (7+ yrs), SQL, Scala, Groovy, JavaScript<br>
+**Machine learning:** PyTorch, Pandas, scikit-learn, NLTK, spaCy, PyTorch Geometric, NetworkX, TensorFlow<br>
+**Data and retrieval:** Spark, Lucene, UIMA, Tableau, R<br>
+**Databases:** Oracle, MySQL, Neo4j<br>
+**Infrastructure:** Linux, Git, Jenkins, Docker, Nginx, Flask
 
 Contact
 ======

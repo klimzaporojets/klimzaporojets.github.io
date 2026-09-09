@@ -1,9 +1,14 @@
 # Main navigation links.
 # Only add a page here once it is real and `published: true` — an entry pointing
 # at a placeholder is worse than no entry at all.
+# External URLs (containing 'http') are detected by _includes/masthead.html and
+# are not prefixed with base_path.
 main:
   - title: "Research"
     url: /research/
 
   - title: "CV"
     url: /cv/
+
+  - title: "Code"
+    url: https://github.com/klimzaporojets
