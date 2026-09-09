@@ -1,4 +1,9 @@
 _site/
 synchronize.sh
 .idea/
+
+# _career/ is its OWN separate private git repository (career plan + CV sources).
+# It must stay ignored here: it is private, this repo is public, and without this
+# line `git add` would create a broken gitlink instead of tracking the files.
+# See _career/README.md.
 _career/

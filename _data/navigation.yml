@@ -1,22 +1,9 @@
-# main links links
-# main:
-#  - title: "Publications"
-#    url: /publications/
+# Main navigation links.
+# Only add a page here once it is real and `published: true` — an entry pointing
+# at a placeholder is worse than no entry at all.
+main:
+  - title: "Research"
+    url: /research/
 
-#  - title: "Talks"
-#    url: /talks/    
-
-#  - title: "Teaching"
-#    url: /teaching/    
-    
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "CV"
-#    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
+  - title: "CV"
+    url: /cv/
