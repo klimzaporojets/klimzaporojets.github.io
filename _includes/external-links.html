@@ -11,6 +11,10 @@
    *
    * `rel="noopener"` is set alongside: without it the opened page receives a
    * window.opener handle back to this one, which is a known phishing vector.
+   *
+   * IMPORTANT: this page's HTML is served minified, with every newline
+   * collapsed to a space. A `//` line comment would therefore comment out the
+   * whole remainder of the script. Use block comments only, never `//`.
    */
   (function () {
     function markExternalLinks() {
@@ -22,16 +26,17 @@
         try {
           url = new URL(a.getAttribute('href'), window.location.href);
         } catch (e) {
-          continue;                                  // malformed href, leave alone
+          continue;  /* malformed href, leave it alone */
         }
+        /* Skip mailto:, tel: and in-page anchors. */
         if (url.protocol !== 'http:' && url.protocol !== 'https:') {
-          continue;                                  // mailto:, tel:, #anchors
+          continue;
         }
         /* External only. Internal pages (/research/, /cv/) and the CV PDFs
            under /files/ deliberately stay in the same tab. */
         if (url.hostname !== here) {
-          a.target = '_blank';
-          a.rel = a.rel ? a.rel + ' noopener' : 'noopener';
+          a.setAttribute('target', '_blank');
+          a.setAttribute('rel', a.rel ? a.rel + ' noopener' : 'noopener');
         }
       }
     }
@@ -41,5 +46,9 @@
     } else {
       markExternalLinks();
     }
+
+    /* The theme's greedy-nav moves nav links between .visible-links and
+       .hidden-links after load; re-run so any moved link keeps its target. */
+    window.addEventListener('load', markExternalLinks);
   })();
 </script>
