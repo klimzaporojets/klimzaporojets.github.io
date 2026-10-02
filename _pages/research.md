@@ -18,7 +18,7 @@ P. Zhang, Y. Jiang, <b>K. Zaporojets</b>, C. Cao, P. Groth, <b>[TimeRoute: Time-
 
 P. Zhang, <b>K. Zaporojets</b>, C. Cao, J.H. Huang, P. Groth, <b>[Time Imprint: Learning Time-Aware Representations in Multi-Modal Knowledge Graphs](https://arxiv.org/pdf/2607.09777)</b> <em>Submitted to the ACM International Conference on Web Search and Data Mining (WSDM 2027).</em>
 
-<b>K. Zaporojets</b>, D. Daza, E. Barba, I. Assent, R. Navigli, P. Groth, 2026. <b>[EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge](https://arxiv.org/pdf/2507.03617)</b> <em>Submitted to the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).</em> [ [Code and dataset](https://github.com/klimzaporojets/emerge) ]
+<b>K. Zaporojets</b>, D. Daza, E. Barba, I. Assent, R. Navigli, P. Groth, 2026. <b>[EMERGE: A Benchmark for Updating Knowledge Graphs with Emerging Textual Knowledge](https://arxiv.org/pdf/2507.03617)</b> <em>Accepted at the Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026).</em> [ [Code and dataset](https://github.com/klimzaporojets/emerge) ]
 
 F. Polat, D. Daza, P. Zhang, <b>K. Zaporojets</b>, P. Groth, 2026. <b> Select, Don't Train: The Benefits of Modular Entity Disambiguation with LLM-Based Selection. </b> To appear in proceeedings of the 25th International Semantic Web Conference (ISWC 2026). 
 
